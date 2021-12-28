@@ -9,3 +9,5 @@
 ## Оптмизация:
 * [GradientDescent](https://github.com/aamenkov/MachineLearning-course/blob/main/Optimization/GradientDescent_visualization.ipynb)
 
+## Материалы для подготовки: 
+* [Ссылка на диск](https://disk.yandex.ru/d/CLLfd0DOWRzXzA)

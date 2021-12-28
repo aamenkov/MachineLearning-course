@@ -1,12 +1,12 @@
-# Репозиторий для курса по машинному обучению :hatching_chick:
+# Репозиторий для курса по машинному обучению :hatching_chick::hatching_chick::hatching_chick:
 
-## Выполненные задания :white_check_mark:: 
+## :white_check_mark: Выполненные задания: 
 
 * [Practice. Lesson 1 :one:](https://github.com/aamenkov/MachineLearning-course/blob/main/PracticeNotebooks/Lesson1_practice_pandas_titanic.ipynb)
 * [Practice. Lesson 2 :two:](https://github.com/aamenkov/MachineLearning-course/blob/main/PracticeNotebooks/Lesson2_practice_visual_titanic.ipynb)
 * [Numpy (33/100) :star:](https://github.com/aamenkov/MachineLearning-course/blob/main/PracticeNotebooks/100_Numpy_exercises.ipynb/)
 
-## Оптмизация:
+## Оптимизация:
 * [GradientDescent](https://github.com/aamenkov/MachineLearning-course/blob/main/Optimization/GradientDescent_visualization.ipynb)
 * [GradientDescent функция из Пантелеева](https://github.com/aamenkov/MachineLearning-course/blob/main/Optimization/GradientDescent_visualization_myfunc.ipynb)
 
